@@ -43,4 +43,7 @@
 
 ## Animated Image
 
-![Animated Image Alt Text](https://static-cse.canva.com/blob/604057/giphy3.gif)
+![Homer](https://static-cse.canva.com/blob/604057/giphy3.gif)
+<script type="text/javascript">
+    alert("Hello!");
+</script>
