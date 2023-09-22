@@ -19,10 +19,13 @@
 
 - Aspirateur
   1. Aspiv1
-  2. Aspi v2
+  1. Aspi v2
 - Balais
   1. Balaisv1
   2. Balaisv2
+* Chiffons
+    * 1. Chiffonsv1
+    * 1.
 
 ## Titles and Subtitles
 
